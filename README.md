@@ -31,6 +31,7 @@ Use the shortcut `Ctrl` + `D` (Windows) or `⌘` + `D` (Macintosh) to bookmark t
 ## Music Theory
 
 [Musicca](https://www.musicca.com/) *- Popular music learning platform*<br>
+[Dave Conservatoire](https://daveconservatoire.org/) *- The world's free music school*<br>
 [Harmonagon](http://harmonagon.com/) *- Learn music using simple geometric shapes*<br>
 
 ## Cheat Sheets
