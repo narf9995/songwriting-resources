@@ -61,6 +61,7 @@ Use the shortcut `Ctrl` + `D` (Windows) or `⌘` + `D` (Macintosh) to bookmark t
 [Guitar Progressions](https://www.oolimo.com/chordprogressions/matrix)<br>
 [Ukebuddy](https://ukebuddy.com/ukulele-chords)<br>
 [Ukulele Chord Progressions](https://ukulelego.com/ukulele-chord-progressions/)<br>
+[Musopen](https://musopen.org/sheetmusic/) *- 100,000 classical sheet music pdf files, all for free and in the public domain*<br>
 
 ## Lyrics
 
