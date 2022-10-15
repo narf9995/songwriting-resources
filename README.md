@@ -38,7 +38,6 @@ Use the shortcut `Ctrl` + `D` (Windows) or `⌘` + `D` (Macintosh) to bookmark t
 
 [EQ Frequency Guide](https://app.shoreline.edu/sccstudio/downloads/studioDocs/FrequencyPoster.pdf)<br>
 [Compression Cheat Sheet](https://www.musicianonamission.com/wp-content/uploads/2017/07/COMPRESSION-CHEAT-SHEET.pdf)<br>
-[Songwriting Survival Guide](https://www.michael-thomas.com/music/songwriting/songwriting_survival_guide.htm)<br>
 
 ## Useful Tools
 
@@ -65,13 +64,14 @@ Use the shortcut `Ctrl` + `D` (Windows) or `⌘` + `D` (Macintosh) to bookmark t
 
 ## Lyrics
 
+[15 Essential Rhyme Schemes for Songwriters](https://www.ascap.com/help/career-development/15-rhyme-schemes-jordan-reynolds)<br>
+[Describing Words](https://describingwords.io/)<br>
 [Rhyme Zone](https://www.rhymezone.com/)<br>
 [Rhyming & Songwriting](https://www.michael-thomas.com/music/songwriting/rhyming.htm)<br>
-[15 Essential Rhyme Schemes for Songwriters](https://www.ascap.com/help/career-development/15-rhyme-schemes-jordan-reynolds)<br>
-[The Phrase Finder](https://www.phrases.org.uk/)<br>
-[Describing Words](https://describingwords.io/)<br>
 [Related Words](https://relatedwords.org/)<br>
 [Reverse Dictionary](https://reversedictionary.org/)<br>
+[Syllable Counter](https://syllablecounter.net/)<br>
+[The Phrase Finder](https://www.phrases.org.uk/)<br>
 
 ## Writing Prompts
 
